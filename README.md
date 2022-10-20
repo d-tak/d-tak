@@ -1,23 +1,22 @@
 <h1 align="center">Hello! I'm Daniel! 👋</h1>
 
 ### About Me
-I am a former Technical and Production Director gone Software Engineer with growing experience as a Full Stack Web Developer.
-I enjoy exploring existing projects and contributing to higher efficiencies. With a passion for learning new languages, tools, and approaches to problem solving - all of which are demonstrated in web development, I am committed to a lifelong process of learning. Currently, I am skilled in React.js, JavaScript (ES5 & ES6), PostgresSQL, Node.js, CSS3, HTML5, and constantly delving into other areas and languages!
+Hello, World!  My name is Daniel and I am a former Technical and Production Director gone Software Engineer with growing experience as a Full Stack Web Developer.
+Based in Southern California, I enjoy exploring existing projects and contributing to higher efficiencies. With a passion for learning new languages, tools, and approaches to problem solving - all of which are demonstrated in web development, I am committed to a lifelong process of learning. Currently, I am skilled in React.js, JavaScript (ES5 & ES6), PostgresSQL, Node.js, CSS3, HTML5, and constantly delving into other areas and languages!
 
 When I'm not coding, you can find me eating good food with great people.
 
 ![Daniel's gitHub stats](https://github-readme-stats.vercel.app/api?username=d-tak&theme=dracula&show_icons=true) 
 
 
-- 🔭 I’m currently working on [adding stretch features to](enqueue.d-tak.com)
-
 - 🌱 I’m currently deepening my understanding in **React and native JavaScript**
 
 - 💬 Ask me about **leveraging the use of effective technology in the marketplace!**
 
+- ⚡ Fun fact **I've spent nearly two decades working in music, music production, and broadcast.**
+
 - 📫 How to reach me **takdanielj@gmail.com**
 
-- ⚡ Fun fact **I've spent nearly two decades working in music, music production, and broadcast.**
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
