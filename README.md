@@ -11,11 +11,11 @@ When I'm not coding, you can find me eating good food with great people.
 
 - 🌱 I’m currently deepening my understanding in **React and native JavaScript**
 
-- 💬 Ask me about **leveraging the use of effective technology in the marketplace!**
+- 💬 Let's talk about **leveraging the use of effective technology in the marketplace!**
 
 - ⚡ Fun fact: **I've spent nearly two decades working in music, music production, and broadcast.**
 
-- 📫 How to reach me **takdanielj@gmail.com**
+- 📫 I'd love to connect! **takdanielj@gmail.com**
 
 
 ### Languages
