@@ -7,9 +7,10 @@ Based in Southern California, I enjoy exploring existing projects and contributi
 When I'm not coding, you can find me eating good food with great people.
 
 
+![Daniel's gitHub stats]
 <p align="center">
-  ![Daniel's gitHub stats](https://github-readme-stats.vercel.app/api?username=d-tak&show_icons=true&theme=tokyonight) 
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=d-tak&show_icons=true&theme=tokyonight">
+  </p>
 
 
 - 🌱 I’m currently deepening my understanding in **React and native JavaScript**
