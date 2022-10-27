@@ -24,8 +24,7 @@ When I'm not coding, you can find me eating good food with great people.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-tak&hide=ShaderLab,GLSL,HLSL,Objective-C%2B%2B,ASP.NET,Inno%20Setup,CMAKE&theme=radical">
 </p> -->
 
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-tak&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" /p> 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=d-tak&theme=nord&hide_border=true&border_radius=4)](https://git.io/streak-stats)
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
