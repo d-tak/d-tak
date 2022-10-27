@@ -23,9 +23,9 @@ When I'm not coding, you can find me eating good food with great people.
   <img src="https://github-readme-stats.vercel.app/api?username=d-tak&show_icons=true&theme=radical&line_height=27">
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-tak&hide=ShaderLab,GLSL,HLSL,Objective-C%2B%2B,ASP.NET,Inno%20Setup,CMAKE&theme=radical">
-</p>
+</p> -->
 
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-tak&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" /p> 
