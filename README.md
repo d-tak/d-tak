@@ -7,8 +7,9 @@ Based in Southern California, I enjoy exploring existing projects and contributi
 When I'm not coding, you can find me eating good food with great people.
 
 <p align="center">
-  <img src="https://github.com/d-tak/d-tak/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/DanielTakac/DanielTakac/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=d-tak&show_icons=true&theme=tokyonight">
