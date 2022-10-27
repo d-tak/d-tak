@@ -6,6 +6,7 @@ Based in Southern California, I enjoy exploring existing projects and contributi
 
 When I'm not coding, you can find me eating good food with great people.
 
+![Daniel's gitHub contributions](https://github.com/d-tak/d-tak/blob/output/github-contribution-grid-snake.svg)
 ![Daniel's gitHub stats](https://github-readme-stats.vercel.app/api?username=d-tak&show_icons=true&theme=tokyonight) 
 
 
