@@ -8,7 +8,7 @@ When I'm not coding, you can find me eating good food with great people.
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d-tak&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=d-tak&show_icons=true&theme=city-lights">
   </p>
 
 
@@ -24,7 +24,9 @@ When I'm not coding, you can find me eating good food with great people.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-tak&hide=ShaderLab,GLSL,HLSL,Objective-C%2B%2B,ASP.NET,Inno%20Setup,CMAKE&theme=radical">
 </p> -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=d-tak&theme=nord&hide_border=true&border_radius=4)](https://git.io/streak-stats)
+<p align="center">
+  (https://github-readme-streak-stats.herokuapp.com?user=d-tak&theme=nord&hide_border=true&border_radius=4)](https://git.io/streak-stats)
+  </p>
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
