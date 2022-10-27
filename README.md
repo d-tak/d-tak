@@ -7,7 +7,6 @@ Based in Southern California, I enjoy exploring existing projects and contributi
 When I'm not coding, you can find me eating good food with great people.
 
 
-![Daniel's gitHub stats]
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=d-tak&show_icons=true&theme=tokyonight">
   </p>
@@ -54,5 +53,5 @@ When I'm not coding, you can find me eating good food with great people.
 
   
 <p align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=d-tak&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=d-tak&theme=tokyonight">
 </p> 
