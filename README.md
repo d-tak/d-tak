@@ -6,8 +6,6 @@ Based in Southern California, I enjoy exploring existing projects and contributi
 
 When I'm not coding, you can find me eating good food with great people.
 
-<img src="https://github.com/d-tak/blob/output/github-contribution-grid-snake.svg">
-
 
 ![Daniel's gitHub stats](https://github-readme-stats.vercel.app/api?username=d-tak&show_icons=true&theme=tokyonight) 
 
@@ -19,6 +17,21 @@ When I'm not coding, you can find me eating good food with great people.
 - ⚡ Fun fact: **I've spent nearly two decades working in music, music production, and broadcast.**
 
 - 📫 I'd love to connect! **takdanielj@gmail.com**
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=d-tak&show_icons=true&theme=radical&line_height=27">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-tak&hide=ShaderLab,GLSL,HLSL,Objective-C%2B%2B,ASP.NET,Inno%20Setup,CMAKE&theme=radical">
+</p>
+
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-tak&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+
+<p align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=d-tak&theme=redical">
+</p> 
+<hr>
 
 
 ### Languages
