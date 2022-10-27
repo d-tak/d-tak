@@ -7,7 +7,9 @@ Based in Southern California, I enjoy exploring existing projects and contributi
 When I'm not coding, you can find me eating good food with great people.
 
 
-![Daniel's gitHub stats](https://github-readme-stats.vercel.app/api?username=d-tak&show_icons=true&theme=tokyonight) 
+<p align="center">
+  ![Daniel's gitHub stats](https://github-readme-stats.vercel.app/api?username=d-tak&show_icons=true&theme=tokyonight) 
+</p>
 
 
 - 🌱 I’m currently deepening my understanding in **React and native JavaScript**
@@ -17,11 +19,6 @@ When I'm not coding, you can find me eating good food with great people.
 - ⚡ Fun fact: **I've spent nearly two decades working in music, music production, and broadcast.**
 
 - 📫 I'd love to connect! **takdanielj@gmail.com**
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d-tak&show_icons=true&theme=radical&line_height=27">
-</p>
 
 <!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-tak&hide=ShaderLab,GLSL,HLSL,Objective-C%2B%2B,ASP.NET,Inno%20Setup,CMAKE&theme=radical">
