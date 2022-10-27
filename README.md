@@ -21,18 +21,18 @@ When I'm not coding, you can find me eating good food with great people.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=d-tak&show_icons=true&theme=radical&line_height=27">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-tak&hide=ShaderLab,GLSL,HLSL,Objective-C%2B%2B,ASP.NET,Inno%20Setup,CMAKE&theme=radical">
 </p>
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-tak&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-tak&hide=ShaderLab,GLSL,HLSL,Objective-C%2B%2B,ASP.NET,Inno%20Setup,CMAKE&theme=radical">
+</p>
+
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-tak&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" /p> 
 
 <p align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=d-tak&theme=redical">
 </p> 
-<hr>
-
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
