@@ -30,10 +30,6 @@ When I'm not coding, you can find me eating good food with great people.
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-tak&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" /p> 
 
-<p align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=d-tak&theme=redical">
-</p> 
-
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -57,3 +53,8 @@ When I'm not coding, you can find me eating good food with great people.
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+
+  
+<p align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=d-tak&theme=redical">
+</p> 
